@@ -4,3 +4,15 @@
   padding: 2rem;
   text-align: center;
 }
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.character-card {
+  border: 2px solid white;
+  width: 230px;
+  margin: 10px;
+  padding: 10px;
+}
